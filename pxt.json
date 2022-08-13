@@ -1,5 +1,5 @@
 {
-    "name": "BLE-v1",
+    "name": "ble-truck",
     "description": "",
     "dependencies": {
         "core": "*",
